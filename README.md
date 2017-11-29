@@ -10,3 +10,5 @@ STEPS
 VERSION SUPPORT
 
         PHP : 5.3 or greater
+
+![Screenshot](screenshot.png)
